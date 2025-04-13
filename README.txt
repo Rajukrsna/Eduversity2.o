@@ -5,7 +5,6 @@ Eduversity is an AI-powered educational assistant that transforms how students i
 ![Eduversity Banner](https://your-image-link-if-any.com) <!-- Optional: Replace with a real image -->
 
 ---
-
 ## 🚀 Features
 
 - 📚 **PDF Upload + AI Chat:** Upload course material and ask questions directly.
